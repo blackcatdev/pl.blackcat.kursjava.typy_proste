@@ -1,6 +1,5 @@
 package pl.blackcat.kursjava.typy_proste;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //print average from 3 school subjects, 4 marks; first time using user input
